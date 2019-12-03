@@ -22,6 +22,7 @@
   <PropertyGroup>
     <IncludeSymbols>true</IncludeSymbols>	
     <SymbolPackageFormat>snupkg</SymbolPackageFormat>	
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>	
   </PropertyGroup>
 
   <ItemGroup Condition=" '$(TargetFramework)' == 'net46' ">
