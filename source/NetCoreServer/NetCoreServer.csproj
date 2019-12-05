@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFrameworks>netstandard21;net46</TargetFrameworks>
+    <TargetFrameworks>netstandard2.0;net46</TargetFrameworks>
     <Version>3.0.3</Version>
     <Authors>Ivan Shynkarenka</Authors>
     <Copyright>Copyright (c) 2019 Ivan Shynkarenka</Copyright>
